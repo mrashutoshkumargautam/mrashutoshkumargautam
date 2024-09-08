@@ -43,15 +43,6 @@ Welcome to my GitHub profile! I'm a **programmer**, **digital marketer**, and so
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrashutoshkumargautam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashutoshkumargautam&layout=compact&theme=radical" alt="Top Languages" width="335px"/>
-</p>
-
----
-
 ### 📫 How to Reach Me
 
 - **LinkedIn**: [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh-kumar)
@@ -60,24 +51,9 @@ Welcome to my GitHub profile! I'm a **programmer**, **digital marketer**, and so
 
 ---
 
-### 🏆 Achievements
-
-- **Awarded**: Employee of the Month for outstanding performance at Testbook.
-- **Projects**: Worked on successful digital marketing campaigns that boosted brand reach by 30%.
-- **Certifications**: Google Analytics Certified, Facebook Blueprint Certified.
-
----
-
 ### 💬 Quote I Live By
 
 > “The best way to predict the future is to invent it.” – Alan Kay
-
----
-
-### 👨‍💻 Contributions
-
-- Actively contributing to open-source projects related to automation and cybersecurity.
-- Check out my repositories for more details!
 
 ---
 
