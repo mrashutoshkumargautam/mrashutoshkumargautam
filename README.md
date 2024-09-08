@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm a **programmer**, **digital marketer**, and someone deeply interested in **cybersecurity**. Currently, I’m working at **Testbook** as a **Growth Associate**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrashutoshkumargautam&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/mrashutoshkumargautam?label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/mrashutoshkumargautam?label=Stars)
-
 ---
 
 ### 🚀 About Me
