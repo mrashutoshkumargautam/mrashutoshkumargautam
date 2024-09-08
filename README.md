@@ -26,23 +26,6 @@ Welcome to my GitHub profile! I'm a **programmer**, **digital marketer**, and so
 
 ---
 
-### 🌟 Key Projects
-
-- **[Pysender](https://github.com/mrashutoshkumargautam/Pysender)**: An HTML-based project for email automation.
-- **[YouTube Downloader (PyQt5)](https://github.com/mrashutoshkumargautam/youtube-downloader)**: A simple, effective YouTube downloader using PyQt5.
-- **[Personal Portfolio](https://github.com/mrashutoshkumargautam/portfolio)**: My personal portfolio showcasing my projects and skills.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages**: Python, HTML, CSS, JavaScript
-- **Frameworks**: PyQt5, Flask, Django
-- **Tools**: Git, GitHub, Docker
-- **Others**: Firebase, SQLite, Google Analytics, Shopify, LinkedIn Campaign Manager
-
----
-
 ### 📫 How to Reach Me
 
 - **LinkedIn**: [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh-kumar)
